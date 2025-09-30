@@ -1,0 +1,52 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: SODa OpenRefine Einführung
+description: >-
+  Dieses Tutorial kann als Material für unseren Einführungs-Workshop oder als
+  Selbstlern-Ressource zu OpenRefine für die Arbeit mit Sammlungsdaten genutzt
+  werden.
+
+
+  OpenRefine ist ein leistungsstarkes Open-Source-Tool zur Datenbereinigung und
+  -transformation, das im GLAM-Bereich (Galleries, Libraries, Archives, Museums)
+  und in Universitätssammlungen wertvolle Dienste leistet. Gerade hier, wo
+  heterogene und historisch gewachsene Datensätze oft inkonsistente Metadaten
+  aufweisen, hilft OpenRefine.
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: >-
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/OpenRefine-Beginner-Tutorial/main/SODa-OpenRefine-Beginner-Tutorial.md#1
+creator:
+  - name: SODa - Sammlungen, Objekte, Datenkompetenzen
+    type: Organization
+  - givenName: Louise
+    familyName: Tharandt
+    type: Person
+    affiliation:
+      name: Humboldt-Universität zu Berlin
+      id: https://ror.org/01hcx6992
+      type: Organization
+  - givenName: Michael
+    familyName: Markert
+    type: Person
+    affiliation:
+      name: Friedrich-Alexander-Universität Erlangen-Nürnberg
+      id: https://ror.org/00f7hpc57
+      type: Organization
+keywords:
+  - Sammlung
+  - Museum
+  - Collection
+  - OpenRefine
+  - Data wrangling
+  - Datenbereinigung
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/worksheet
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_C
+datePublished: '2025-07-16'
