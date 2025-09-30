@@ -21,6 +21,7 @@ creator:
     type: Organization
   - givenName: Louise
     familyName: Tharandt
+    id: https://orcid.org/0009-0009-5967-2809
     type: Person
     affiliation:
       name: Humboldt-Universität zu Berlin
@@ -28,6 +29,7 @@ creator:
       type: Organization
   - givenName: Michael
     familyName: Markert
+    id: https://orcid.org/0000-0002-8943-4870
     type: Person
     affiliation:
       name: Friedrich-Alexander-Universität Erlangen-Nürnberg
