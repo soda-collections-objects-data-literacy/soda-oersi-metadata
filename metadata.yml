@@ -1,1 +1,2 @@
 !include oer_metadata/*.yml
+!include oer_metadata/openrefine_introduction.yml
