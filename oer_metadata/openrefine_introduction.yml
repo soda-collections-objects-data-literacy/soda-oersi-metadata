@@ -49,6 +49,8 @@ about:
 learningResourceType:
   - https://w3id.org/kim/hcrt/course
   - https://w3id.org/kim/hcrt/worksheet
+image: >-
+  https://sammlungen.io/sites/default/files/styles/medium_1_1_max400px/public/2025-05/OpenRefineGrafik.png.webp
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_C
 datePublished: '2025-07-16'
