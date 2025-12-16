@@ -1,0 +1,48 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Basic 3D Pipeline anhand von Web-Apps
+description: >-
+  Dieses Basic 3D Pipeline Tutorial gibt einen Einblick in die Digitalisierung
+  von Objekten mit einfachen Mitteln. Dieser Kurs ist für alle Personen gedacht,
+  die noch keine Erfahrung mit 3D Digitalisierung haben oder diejenigen, die ihr
+  Wissen gerne auffrischen möchten. 
+
+
+  In diesem Tutorial wird vor allem die einfache Digitalisierung und Publikation
+  über Smartphone Apps vorgestellt und der 3D-Digitalisierungsprozess in seiner
+  Gänze kurz vorgestellt, um in weiteren Workshops und Tutorials auf diesem
+  Vorwissen aufbauen zu können.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: >-
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianCremerius/Basic3D/main/Basic3D.md
+creator:
+  - givenName: Julian
+    familyName: Cremerius
+    id: https://orcid.org/0009-0006-7744-5392
+    type: Person
+    affiliation:
+      name: Friedrich-Alexander-Universität Erlangen-Nürnberg
+      id: https://ror.org/00f7hpc57
+      type: Organization
+keywords:
+  - 3D
+  - Unisammlungen
+  - Sammlungen
+  - Museum
+  - Universitätssammlungen
+  - Digitalisierung
+  - Photogrammetrie
+  - Structure from Motion
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+image: https://sammlungen.io/sites/default/files/2025-07/Augustus.png
+learningResourceType:
+  - https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/drill_and_practice
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_C
+datePublished: '2025-07-11'
