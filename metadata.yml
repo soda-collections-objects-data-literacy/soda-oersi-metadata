@@ -1,2 +1,2 @@
-!include oer_metadata/openrefine_introduction.yml
-!include oer_metadata/basics_pipeline_3d.yml
+- !include oer_metadata/openrefine_introduction.yml
+- !include oer_metadata/basics_pipeline_3d.yml
