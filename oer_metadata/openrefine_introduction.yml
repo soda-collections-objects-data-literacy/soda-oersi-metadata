@@ -1,56 +1,53 @@
-'@context': https://schema.org/
-creativeWorkStatus: Published
+'@context': 'https://schema.org/'
 type: LearningResource
-name: SODa OpenRefine Einführung
-description: >-
-  Dieses Tutorial kann als Material für unseren Einführungs-Workshop oder als
-  Selbstlern-Ressource zu OpenRefine für die Arbeit mit Sammlungsdaten genutzt
-  werden.
-
-
-  OpenRefine ist ein leistungsstarkes Open-Source-Tool zur Datenbereinigung und
-  -transformation, das im GLAM-Bereich (Galleries, Libraries, Archives, Museums)
-  und in Universitätssammlungen wertvolle Dienste leistet. Gerade hier, wo
-  heterogene und historisch gewachsene Datensätze oft inkonsistente Metadaten
-  aufweisen, hilft OpenRefine.
-license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
-id: >-
-  https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/OpenRefine-Beginner-Tutorial/main/SODa-OpenRefine-Beginner-Tutorial.md#1
-creator:
-  - name: SODa - Sammlungen, Objekte, Datenkompetenzen
-    type: Organization
-  - givenName: Louise
-    familyName: Tharandt
-    id: https://orcid.org/0009-0009-5967-2809
-    type: Person
-    affiliation:
-      name: Humboldt-Universität zu Berlin
-      id: https://ror.org/01hcx6992
-      type: Organization
-  - givenName: Michael
-    familyName: Markert
-    id: https://orcid.org/0000-0002-8943-4870
-    type: Person
-    affiliation:
-      name: Friedrich-Alexander-Universität Erlangen-Nürnberg
-      id: https://ror.org/00f7hpc57
-      type: Organization
-keywords:
-  - Sammlung
-  - Museum
-  - Collection
-  - OpenRefine
-  - Data wrangling
-  - Datenbereinigung
+creativeWorkStatus: Published
+name: 'OpenRefine Einführung'
+description: 'Dieses Tutorial kann als Material für unseren Einführungs-Workshop oder als Selbstlern-Ressource genutzt werden.&nbsp;OpenRefine ist ein leistungsstarkes Open-Source-Tool zur Datenbereinigung und -transformation, das im GLAM-Bereich (Galleries, Libraries, Archives, Museums) und in Universitätssammlungen wertvolle Dienste leistet. Gerade hier, wo heterogene und historisch gewachsene Datensätze oft inkonsistente Metadaten aufweisen, hilft OpenRefine.Das Tool kann:praktisch alle Text-Dateiformate und Datenstrukturen wie CSV, XML, JSON importiereneinen schnellen Überblick über Dateien mit zehntausenden Zeilen schaffenBereinigungs- und Sortieraufgaben durchführen, etwa vor dem Import von Daten in ein neues Dokumentationssystemdurch Zugriff auf Webseiten und Schnittstellen diese Daten verarbeiten (z. B. für einen Abgleich mit der GND, Wikidata, OpenStreetMap usw.)wiederholbare, komplexe Bearbeitungsschritte mit Hilfe der eigenen Skriptsprache GREL durchführen, die ganze Spalten oder die ganze Tabelle betreffenbei der Transformation in andere Datenformate (Export) unterstützenOb zur Vorbereitung digitaler Sammlungen, für Systemmigrationen oder zur besseren Integration in Forschungsinfrastrukturen – OpenRefine erleichtert die Arbeit mit Metadaten erheblich und trägt dazu bei, Sammlungen besser zu erschließen und nachhaltig nutzbar zu machen.Die Kursdateien können auf unserem SODa Repository gefunden werden.&nbsp;Ein kleines CheatSheet zu hilfreichen GREL (General Refine Expression Language) Audrücken in OpenRefine haben wir in unserem InfoSnack: OpenRefine für die Datenbereinigung auf Zenodo veröffentlicht.&nbsp;'
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/drill_and_practice'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2025-05-21'
 inLanguage:
   - de
-about:
-  - https://w3id.org/kim/hochschulfaechersystematik/n0
-learningResourceType:
-  - https://w3id.org/kim/hcrt/course
-  - https://w3id.org/kim/hcrt/worksheet
-image: >-
-  https://sammlungen.io/sites/default/files/styles/medium_1_1_max400px/public/2025-05/OpenRefineGrafik.png.webp
-educationalLevel:
-  - https://w3id.org/kim/educationalLevel/level_C
-datePublished: '2025-07-16'
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/OpenRefine-Beginner-Tutorial/main/SODa-OpenRefine-Beginner-Tutorial.md#1'
+keywords:
+  - OpenRefine
+  - Datenbereinigung
+  - 'strukturierte Daten'
+  - Tabellen
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+  -
+    givenName: Louise
+    familyName: Tharandt
+    id: 'https://orcid.org/0009-0009-5967-2809'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      type: Organization
+  -
+    givenName: Michael
+    familyName: Markert
+    id: 'https://orcid.org/0000-0002-8943-4870'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      type: Organization
+  -
+    givenName: Johannes
+    familyName: Schäffer
+    id: 'https://orcid.org/0009-0007-6883-1483'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      type: Organization
+image: 'https://drupalsoda2026.ddev.site/sites/default/files/2025-05/OpenRefineGrafik.png'
