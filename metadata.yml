@@ -1,2 +1,5 @@
-- !include oer_metadata/openrefine_introduction.yml
-- !include oer_metadata/basics_pipeline_3d.yml
+- !include oer_metadata/oer_75_OpenRefine_Einf__hrung.yml
+- !include oer_metadata/oer_81_3D_Tutorial__Objekt-Digitalisierung_mit_einfachen_Mitteln.yml
+- !include oer_metadata/oer_130_SODaBeratungsCamp__Modul_1_-_Arbeiten_mit_strukturierten_Daten_in_der_Konservierungs-_und_Restaurierungsdokumentation.yml
+- !include oer_metadata/oer_157_Einf__hrung_in_die_Umgebungsverwaltung_mit_Python_und_Pip.yml
+- !include oer_metadata/oer_172_Grundlagen_der_3D-Digitalisierung.yml

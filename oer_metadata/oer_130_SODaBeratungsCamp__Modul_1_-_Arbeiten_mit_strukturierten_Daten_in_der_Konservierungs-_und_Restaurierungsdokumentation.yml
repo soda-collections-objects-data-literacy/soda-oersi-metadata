@@ -1,0 +1,42 @@
+'@context': 'https://schema.org/'
+type: LearningResource
+creativeWorkStatus: Published
+name: 'SODaBeratungsCamp: Modul 1 - Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation'
+description: 'Von der Theorie in die Praxis - erläutern und analysieren&nbsp;Das Modul SODa BeratungsCamp – Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation vermittelt grundlegende Datenkompetenzen für wissenschaftliche Sammlungen und führt in kontextbezogene Praktiken des Forschungsdatenmanagements (FDM) sowie der Dokumentation konservatorischer und restauratorischer Maßnahmen ein. Die Open Educational Resource (OER) wurde als Präsenz-Workshop erprobt und im Train-the-Trainer-Format veröffentlicht.In zwei Einheiten werden zentrale Begriffe, Rollen, Herausforderungen, Standards und Prozesse strukturiert erarbeitet und durch aktivierende Methoden vertieft. Die Teilnehmenden reflektieren eigene Rollen, Bedarfe und Datenpraktiken, ordnen Maßnahmen entlang des Datenlebenszyklus zu und analysieren Dokumentationsanforderungen in ihrem Arbeitskontext. Fachspezifische Grundlagen – etwa Grundsatzpapiere der E.C.C.O., Dokumentationsanforderungen in der Konservierung und Restaurierung sowie aktuelle Entwicklungen zu Metadatenstandards und kontrollierten Vokabularen – bilden einen weiteren Schwerpunkt.Das Modul stärkt datenbezogene Handlungskompetenzen in heterogenen Sammlungsumgebungen und unterstützt den professionellen Umgang mit strukturierten Daten als Grundlage für langfristige Erhaltung, Nutzbarkeit und Nachvollziehbarkeit wissenschaftlicher Objekte und Prozesse.Das verlinkte Related Work stellt die ursprüngliche Version des didaktischen Konzepts dar. Dieses wurde in weiteren Durchführungen erprobt und zur hier vorliegenden aktuellen Fassung weiterentwickelt.SODa: Dieses Projekt mit dem Förderkennzeichen 16DKZ2016B wurde durch das Bundesministerium für Bildung und Forschung (BMBF) und NextGenerationEU (NGEU) gefördert.&nbsp;&nbsp;'
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/textbook'
+  - 'https://w3id.org/kim/hcrt/lesson_plan'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2025-12-08'
+inLanguage:
+  - de
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBeratungsCamp_Modul1/refs/heads/main/01_Modul_de/M1E1_Einf%C3%BChrung-Datenprozesse.md#1'
+keywords: {  }
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+  -
+    givenName: Canan
+    familyName: Hastik
+    id: 'https://orcid.org/0000-0003-1729-4642'
+    type: Person
+    affiliation:
+      name: 'Interessengemeinschaft für Semantische Datenverarbeitung e.V.'
+      type: Organization
+  -
+    givenName: 'Gudrun '
+    familyName: Schwenk
+    id: 'https://orcid.org/0009-0002-3156-8339'
+    type: Person
+    affiliation:
+      name: 'Interessengemeinschaft für Semantische Datenverarbeitung e.V.'
+      type: Organization
+image: ''

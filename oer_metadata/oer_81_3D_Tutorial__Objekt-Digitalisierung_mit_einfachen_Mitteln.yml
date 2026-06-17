@@ -1,0 +1,34 @@
+'@context': 'https://schema.org/'
+type: LearningResource
+creativeWorkStatus: Published
+name: '3D Tutorial: Objekt-Digitalisierung mit einfachen Mitteln'
+description: 'Dieses 3D Tutorial gibt einen Einblick in die Digitalisierung von Objekten mit einfachen Mitteln und Apps. Dieser Kurs ist für alle Personen gedacht, die noch keine Erfahrung mit 3D Digitalisierung haben oder diejenigen, die ihr Wissen gerne auffrischen möchten.&nbsp;In diesem Tutorial wird vor allem die einfache Digitalisierung und Publikation über Smartphone Apps vorgestellt und der 3D-Digitalisierungsprozess in seiner Gänze kurz vorgestellt, um in weiteren Workshops und Tutorials auf diesem Vorwissen aufbauen zu können.'
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/text'
+  - 'https://w3id.org/kim/hcrt/drill_and_practice'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2025-06-25'
+inLanguage:
+  - de
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODa_3D_SfM_Intro/main/Basic3D.md#1'
+keywords: {  }
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+  -
+    givenName: 'Julian '
+    familyName: Cremerius
+    id: 'https://orcid.org/0009-0006-7744-5392'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      type: Organization
+image: 'http://sammlungen.io/sites/default/files/2025-07/Augustus.png'

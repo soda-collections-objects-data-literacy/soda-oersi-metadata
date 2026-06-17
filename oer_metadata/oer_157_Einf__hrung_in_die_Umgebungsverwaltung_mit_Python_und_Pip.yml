@@ -1,0 +1,31 @@
+'@context': 'https://schema.org/'
+type: LearningResource
+creativeWorkStatus: Published
+name: 'Einführung in die Umgebungsverwaltung mit Python und Pip'
+description: 'Der erste Schritt zur lokalen Nutzung von Machine Learning Algorithmen besteht darin, sich eine lokale Python Umgebung einzurichten. Um die Überwindung dieser ersten Hürde zu erleichtern, haben wir ein Tutorial entwickelt, in dem die dafür nötigen Arbeitsschritte vermittelt werden.&nbsp;'
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/course'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-03-17'
+inLanguage:
+  - de
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/2D_HowToPip/refs/heads/main/umgebungsverwaltung.md#1'
+keywords: {  }
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+  -
+    givenName: Mathias
+    familyName: Zinnen
+    id: 'https://orcid.org/0000-0003-4366-5216'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      type: Organization
+image: 'http://sammlungen.io/sites/default/files/2026-06/OER-Umgebungsverwaltung.png'

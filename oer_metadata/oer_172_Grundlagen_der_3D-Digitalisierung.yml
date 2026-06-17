@@ -1,0 +1,33 @@
+'@context': 'https://schema.org/'
+type: LearningResource
+creativeWorkStatus: Published
+name: 'Grundlagen der 3D-Digitalisierung'
+description: 'Der 3D-Basiskurs beschäftigt sich mit der Vorbereitung, Durchführung und Nachbearbeitung einer qualitativ hochwertigen 3D-Aufnahme. Es werden verschieden technische Methoden vorgestellt, entsprechende Bedenken für ihre Auswahl diskutiert und anhand der Photogrammetrie der Prozess angewandt dargestellt.'
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/text'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-05-19'
+inLanguage:
+  - de
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianCremerius/3D_Basiskurs/main/Basic3D.md#1'
+keywords: {  }
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+  -
+    givenName: 'Julian '
+    familyName: Cremerius
+    id: 'https://orcid.org/0009-0006-7744-5392'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      type: Organization
+image: 'http://sammlungen.io/sites/default/files/2026-06/3D-OER_0.png'
