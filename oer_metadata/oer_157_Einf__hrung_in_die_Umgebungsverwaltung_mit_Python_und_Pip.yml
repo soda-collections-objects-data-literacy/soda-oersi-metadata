@@ -1,23 +1,23 @@
-'@context': https://schema.org/
+'@context': 'https://schema.org/'
 creativeWorkStatus: Published
 type: LearningResource
-name: Einführung in die Umgebungsverwaltung mit Python und Pip
+name: 'Einführung in die Umgebungsverwaltung mit Python und Pip'
 description: >-
   Der erste Schritt zur lokalen Nutzung von Machine Learning Algorithmen besteht
-  darin, sich eine lokale Python Umgebung einzurichten. Um die Überwindung
-  dieser ersten Hürde zu erleichtern, haben wir ein Tutorial entwickelt, in dem
-  die dafür nötigen Arbeitsschritte vermittelt werden.&nbsp;
-license: https://creativecommons.org/licenses/by/4.0/deed.de
-id: >-
-  https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/2D_HowToPip/refs/heads/main/umgebungsverwaltung.md#1
+  darin, sich eine lokale Python Umgebung einzurichten. Um die Überwindung dieser
+  ersten Hürde zu erleichtern, haben wir ein Tutorial entwickelt, in dem die
+  dafür nötigen Arbeitsschritte vermittelt werden. 
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/2D_HowToPip/refs/heads/main/umgebungsverwaltung.md#1'
 creator:
-  - givenName: Mathias
+  -
+    givenName: Mathias
     familyName: Zinnen
-    id: https://orcid.org/0000-0003-4366-5216
+    id: 'https://orcid.org/0000-0003-4366-5216'
     type: Person
     affiliation:
-      name: Friedrich-Alexander-Universität Erlangen-Nürnberg
-      id: https://ror.org/00f7hpc57
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      id: 'https://ror.org/00f7hpc57'
       type: Organization
   -
     name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
@@ -25,10 +25,11 @@ creator:
 inLanguage:
   - de
 about:
-  - https://w3id.org/kim/hochschulfaechersystematik/n0
-image: http://sammlungen.io/sites/default/files/2026-06/OER-Umgebungsverwaltung.png
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-06/OER-Umgebungsverwaltung.png'
 learningResourceType:
-  - https://w3id.org/kim/hcrt/course
+  - 'https://w3id.org/kim/hcrt/course'
 educationalLevel:
-  - https://w3id.org/kim/educationalLevel/level_A
-datePublished: '2026-06-02'
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-06-16'
