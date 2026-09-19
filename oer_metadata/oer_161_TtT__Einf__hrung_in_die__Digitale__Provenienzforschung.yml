@@ -1,0 +1,71 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'TtT: Einführung in die (Digitale) Provenienzforschung'
+description: >-
+  Dieses Train-the-Trainer-Material (TtT) ist für Dozierende gedacht, die einen
+  grundlegenden Einstieg in Begriffe, Entzugskontexte und methodische Ansätze
+  sowie in digitale Recherche- und Dokumentationspraktiken vermitteln wollen. Es
+  umfasst Präsentationsfolien sowie ein Drehbuch zum Ablauf eines ca. 180
+  minütigen Online-Workshops.Die Zielgruppe für den Workshop sind
+  Einsteiger*innen und Personen ohne Vorkenntnisse, die sich erstmals mit
+  (Digitaler) Provenienzforschung beschäftigen.Die Folien und das Drehbuch zum
+  Kurs finden Sie hier: https://doi.org/10.5281/zenodo.19232605 InhaltThemenblock
+  1 – Grundlagen der Provenienzforschung: Teilnehmer*innen erhalten eine
+  Einführung in zentrale Definitionen und historische Zusammenhänge. Behandelt
+  werden u.a. Definitionen (Digitaler) Provenienzforschung, von Besitz und
+  Eigentum, Kulturgut, sowie ein Einstieg in die historisch-rechtlich-ethischen
+  Rahmenbedingungen z.B. die Washingtoner Prinzipien.Themenblock 2 – Recherche
+  von Provenienzinformationen: Im Fokus stehen Strategien zur Identifikation
+  verschiedener Entzugskontexte (NS, SBZ/DDR, Koloniale Kontexte). Darüber hinaus
+  erfolgt ein Einblick in einige Recherchedatenbanken und Tools.Themenblock 3 –
+  Strukturierung von Provenienzangaben: Es erfolgt eine Einführung in die
+  Relevanz einer standardisierten Erfassung von Provenienzdaten. Zudem werden
+  verschiedene Beispiele für Metadatenschemata gezeigt und gemeinsam
+  diskutiert.MaterialienThemenblock 2Gruppenübung und Ergebnisse zu den
+  Entzugskontexten: https://miro.com/app/board/uXjVGFkUzuU=/ Entzugskontexte
+  erkennen: NS-verfolgungsbedingt entzogenes Kulturgut.
+  https://doi.org/10.5281/zenodo.19237137  Entzugskontexte erkennen: Sowjetische
+  Besatzungszone und DDR. https://doi.org/10.5281/zenodo.19237620 Entzugskontexte
+  erkennen: Koloniale Kontexte. https://doi.org/10.5281/zenodo.21158166
+  Themenblock 3Tabellenvorlage für eine Übung zur strukturierten Erfassung von
+  Provenienzketten:
+  https://docs.google.com/spreadsheets/d/14D1vQUDafm60izKozyULZW2wVIoEgHxBziyItVZ7mZo/edit?usp=sharing
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://doi.org/10.5281/zenodo.19232605'
+creator:
+  -
+    givenName: Gabriele
+    familyName: Zöllner
+    id: 'https://orcid.org/0009-0002-1787-9149'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    givenName: Rebekka
+    familyName: Reichert
+    id: 'https://orcid.org/0009-0006-8283-3234'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/slide'
+  - 'https://w3id.org/kim/hcrt/lesson_plan'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-15'
