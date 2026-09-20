@@ -1,0 +1,47 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Blender Selbstlern-Tests'
+description: >-
+  Im Rahmen unseres Seminars zur Bearbeitung von 3D Modellen in der (Open-Source)
+  Software Blender setzenwir seit einiger Zeit zusätzliche Selbstlern-Tests ein,
+  die thematisch gruppierte Funktionen von Blender rekapitulieren und Übungen mit
+  automatischem Feedback anbieten, um sich kontrolliert in der Anwendung zu
+  Üben.Bei den Übungen handelt es sich um Blender-Projektfiles (.blend) in denen
+  Übungszenen bereitgestellt sind. Dafür muss Blender heruntergeladen werden,
+  ein Link dafür finden Sie unten in der Infobox.Die Tests sind bisher
+  Work-in-progress. Um die weitere Ausarbeitung zu stützen werden wir die
+  Aufgaben nach und nach hier zur Verfügung stellen, und freuen uns jederzeit
+  über Feedback jeglicher Art (gerne per Mail an julian.cremerius@fau.de). Thema
+  1 - Einfache Objektmanipulation (Bewegen, Rotieren, Skalieren)siehe Github -&gt;
+  Learning_Challenge_Object_mode.blendThema 2 - Bearbeitung von
+  Objektgeometriecoming soonThema 3 - Materialiencoming soonThema 4 -
+  AnimationentbaThema 5 - Geometry Nodestba Selbstlern-Test zu weiteren Themen wie
+  bspw. Kamera(-fahrten), Beleuchtung, Sculpting &amp; UV Mapping befinden sich in
+  verschiedenen Stadien der Konzeptionierung, Interessensbekundungen oder Bedarfe
+  diesbezüglich sind ebenfalls gerne willkommen.
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://github.com/JulianCremerius/Blender-Learning-Challenges'
+creator:
+  -
+    givenName: 'Julian '
+    familyName: Cremerius
+    id: 'https://orcid.org/0009-0006-7744-5392'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: ''
+learningResourceType: {  }
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-07-17'

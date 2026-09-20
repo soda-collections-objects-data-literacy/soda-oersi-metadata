@@ -1,31 +1,39 @@
 '@context': 'https://schema.org/'
-type: LearningResource
 creativeWorkStatus: Published
+type: LearningResource
 name: 'OpenRefine Einführung'
-description: 'Dieser Kurs kann als Material für unseren Einführungs-Workshop oder als Selbstlern-Ressource genutzt werden.&nbsp;OpenRefine ist ein leistungsstarkes Open-Source-Tool zur Datenbereinigung und -transformation, das im GLAM-Bereich (Galleries, Libraries, Archives, Museums) und in Universitätssammlungen wertvolle Dienste leistet. Gerade hier, wo heterogene und historisch gewachsene Datensätze oft inkonsistente Metadaten aufweisen, hilft OpenRefine.Der Kurs führt in die grundlegende Funktion von OpenRefine ein und behandelt folgende Anwendungsfälle:Daten bereinigen und ordnen, z.B. Personenansetzungen abgleichen und korrigieren, überflüssige Leerzeichen löscheURLs auftrennen und korrigierenClustern von Begriffen zur Vereinheitlichung von SchreibweisenKomplexe Freitextangaben wie Maßangaben oder Inventarnummern aufteilenKoordinaten zu Ortsnamen aus OpenStreetMap holenReconciling: Identification von Entitäten in z.B. in der GND oder WikidataOpenRefine kannpraktisch alle Text-Dateiformate und Datenstrukturen wie CSV, XML, JSON importieren.einen schnellen Überblick über Dateien mit zehntausenden Zeilen schaffen.Bereinigungs- und Sortieraufgaben durchführen, etwa vor dem Import von Daten in ein neues Dokumentationssystem.durch Zugriff auf Webseiten und Schnittstellen diese Daten verarbeiten (z. B. für einen Abgleich mit der GND, Wikidata, OpenStreetMap usw.).wiederholbare, komplexe Bearbeitungsschritte mit Hilfe der eigenen Skriptsprache GREL durchführen, die ganze Spalten oder die ganze Tabelle betreffen.bei der Transformation in andere Datenformate (Export) unterstützen.Ob zur Vorbereitung digitaler Sammlungen, für Systemmigrationen oder zur besseren Integration in Forschungsinfrastrukturen – OpenRefine erleichtert die Arbeit mit Metadaten erheblich und trägt dazu bei, Sammlungen besser zu erschließen und nachhaltig nutzbar zu machen.Ein kleines CheatSheet zu hilfreichen GREL (General Refine Expression Language) Audrücken in OpenRefine haben wir in unserem InfoSnack: OpenRefine für die Datenbereinigung auf Zenodo veröffentlicht.'
+description: >-
+  Dieser Kurs kann als Material für unseren Einführungs-Workshop oder als
+  Selbstlern-Ressource genutzt werden. OpenRefine ist ein leistungsstarkes
+  Open-Source-Tool zur Datenbereinigung und -transformation, das im GLAM-Bereich
+  (Galleries, Libraries, Archives, Museums) und in Universitätssammlungen
+  wertvolle Dienste leistet. Gerade hier, wo heterogene und historisch gewachsene
+  Datensätze oft inkonsistente Metadaten aufweisen, hilft OpenRefine.Der Kurs
+  führt in die grundlegende Funktion von OpenRefine ein und behandelt folgende
+  Anwendungsfälle:Daten bereinigen und ordnen, z.B. Personenansetzungen
+  abgleichen und korrigieren, überflüssige Leerzeichen löscheURLs auftrennen
+  und korrigierenClustern von Begriffen zur Vereinheitlichung von
+  SchreibweisenKomplexe Freitextangaben wie Maßangaben oder Inventarnummern
+  aufteilenKoordinaten zu Ortsnamen aus OpenStreetMap holenReconciling:
+  Identification von Entitäten in z.B. in der GND oder WikidataOpenRefine
+  kannpraktisch alle Text-Dateiformate und Datenstrukturen wie CSV, XML, JSON
+  importieren.einen schnellen Überblick über Dateien mit zehntausenden Zeilen
+  schaffen.Bereinigungs- und Sortieraufgaben durchführen, etwa vor dem Import von
+  Daten in ein neues Dokumentationssystem.durch Zugriff auf Webseiten und
+  Schnittstellen diese Daten verarbeiten (z. B. für einen Abgleich mit der GND,
+  Wikidata, OpenStreetMap usw.).wiederholbare, komplexe Bearbeitungsschritte mit
+  Hilfe der eigenen Skriptsprache GREL durchführen, die ganze Spalten oder die
+  ganze Tabelle betreffen.bei der Transformation in andere Datenformate (Export)
+  unterstützen.Ob zur Vorbereitung digitaler Sammlungen, für Systemmigrationen
+  oder zur besseren Integration in Forschungsinfrastrukturen – OpenRefine
+  erleichtert die Arbeit mit Metadaten erheblich und trägt dazu bei, Sammlungen
+  besser zu erschließen und nachhaltig nutzbar zu machen.Ein kleines CheatSheet
+  zu hilfreichen GREL (General Refine Expression Language) Audrücken in
+  OpenRefine haben wir in unserem InfoSnack: OpenRefine für die Datenbereinigung
+  auf Zenodo veröffentlicht.
 license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
-about:
-  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
-learningResourceType:
-  - 'https://w3id.org/kim/hcrt/worksheet'
-  - 'https://w3id.org/kim/hcrt/course'
-  - 'https://w3id.org/kim/hcrt/drill_and_practice'
-educationalLevel:
-  - 'https://w3id.org/kim/educationalLevel/level_A'
-  - 'https://w3id.org/kim/educationalLevel/level_C'
-datePublished: '2025-05-21'
-inLanguage:
-  - de
 id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/OpenRefine-Beginner-Tutorial/main/SODa-OpenRefine-Beginner-Tutorial.md#1'
-keywords:
-  - OpenRefine
-  - Datenbereinigung
-  - 'strukturierte Daten'
-  - Tabellen
 creator:
-  -
-    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
-    type: Organization
   -
     givenName: Louise
     familyName: Tharandt
@@ -33,6 +41,7 @@ creator:
     type: Person
     affiliation:
       name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
       type: Organization
   -
     givenName: Michael
@@ -41,6 +50,7 @@ creator:
     type: Person
     affiliation:
       name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      id: 'https://ror.org/00f7hpc57'
       type: Organization
   -
     givenName: Johannes
@@ -49,5 +59,26 @@ creator:
     type: Person
     affiliation:
       name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
       type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
 image: 'http://sammlungen.io/sites/default/files/2025-05/OpenRefineGrafik.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/drill_and_practice'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-06-09'
+keywords:
+  - OpenRefine
+  - Datenbereinigung
+  - 'strukturierte Daten'
+  - Tabellen

@@ -1,0 +1,72 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Workshop Materialien zu Basiskurs-Modul 6: Rechtliche und ethische Herausforderungen bewältigen'
+description: >-
+  Der SODa Basiskurs vermittelt Menschen, die in und mit wissenschaftlichen
+  Hochschul- und Universitätssammlungen arbeiten, Objekte nachhaltig zu
+  erschließen, digital zugänglich zu machen und forschungsorientiert zu nutzen.
+  Er umfasst sechs Module, die unabhängig voneinander genutzt werden
+  können.Modul 6 „Rechtliche und ethische Herausforderungen bewältigen“
+  bietet einen praxisnahen Einstieg in die rechtlichen und ethischen
+  Herausforderungen bei der Sammlungsdigitalisierung. Wir vermitteln grundlegende
+  Kenntnisse zu urheberrechtlichen Regelungen und besprechen, wie wir bei der
+  Sammlungsdigitalisierung mit personenbezogenen Daten und dem Recht am eigenen
+  Bild umgehen können. Darüber hinaus gehen wir auf ethische Herausforderungen
+  im Zusammenhang mit Sammlungsdaten ein, insbesondere auf Objekte aus
+  Unrechtskontexten, Objekte mit menschlichen Überresten und auf Objekte aus
+  kolonialen Kontexten. Das Basiskurs-Modul enthält praktische Übungen, bei
+  denen Nutzer*innen selbst Lösungsansätze für verschiedene ethische und
+  rechtliche Herausforderungen entwickeln können.Hier stellen wir die Materialien
+  aus dem Online-Workshop zu Modul 6 zur Verfügung, der am am 15. Juli 2025
+  durchgeführt wurde (120 Minuten). Diese umfassen:den Foliensatz,das
+  Drehbuch,die Dokumentation des Workshops und der Übungen auf dem Miroboard,und
+  das Quiz, mit dem spielerisch das Gelernte wiederholt werden kann (durchgeführt
+  mit Mentimeter).Darüber hinaus bieten wir für rechtliche und ethische
+  Fragestellungen bei der Sammlungsdigitalisierung jeweils einen Selbstlernkurs
+  an: Für den Bereich Recht: Der Entscheidungsbaum zu urheberrechtlichen Aspekten
+  der Nutzung von Digitalisaten durch Kulturinstitutionen wie
+  Universitätssammlungen gibt gibt eine erste Orientierung, welche
+  urheberrechtlichen Regelungen relevant sind, wenn wir Digitalisate und Metadaten
+  aus Objektsammlungen publizieren und nutzen wollen.Für den Bereich Ethik: Der
+  Selbstlernkurs zu Ethische Herausforderungen bei der Sammlungsdigitalisierung
+  führt anhand von Beispielen in die verschiedenen ethischen Problemfelder ein,
+  die uns bei der Sammlungsdigitalisierung begegnen können. Als Point and Click
+  Adventure nimmt er Nutzer*innen spielerisch mit in eine schulgeschichtliche
+  Sammlung, deren Objekte digitalisiert werden sollen.Die weiteren Module des SODa
+  Basiskurs zu Erschließung und Forschungsdatenmanagement in
+  Universitätssammlungen sind hier zu finden:Modul 1 – Sammlungs-  und
+  Objektdaten als Forschungsdaten managen:
+  https://zenodo.org/records/16761352Modul 2 – Mit sammlungsbezogenen Daten
+  arbeiten: https://zenodo.org/records/1865661Modul 3 – Sammlungen erschließen:
+  https://zenodo.org/records/17938534Modul 4 – Objekte digitalisieren:
+  https://zenodo.org/records/1756974Modul 5 – Publizieren &amp; Archivieren:
+  https://zenodo.org/records/18496044Bei Fragen oder Anmerkungen zögern Sie
+  nicht, uns zu kontaktieren!  
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://zenodo.org/records/18758186'
+creator:
+  -
+    givenName: 'Katharina '
+    familyName: Leyrer
+    id: 'https://orcid.org/0000-0002-3051-0621'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/slide'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-18'

@@ -1,0 +1,50 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Entzugskontexte erkennen: Koloniale Kontexte'
+description: >-
+  Wie erkenne ich, ob ein Objekt in einer Sammlung unrechtmäßig entzogen wurde?
+  Welche Objekte können betroffen sein? Welche Hinweise befinden sich auf den
+  Objekten? Wie kam das Objekt in die Sammlung und wem gehörte es, bevor es in
+  die Sammlung kam? Diese Quick Access Resources bietet tabellarisch und
+  stichpunktartig einen Überblick zum Einstieg in die Provenienzforschung im
+  Bereich der Kolonialen Kontexte. Sie ist zum selbstständigen Einarbeiten in das
+  Thema geeignet, ebenso als Begleitmaterial oder Handout für Workshops und
+  Seminare.  Zöllner, G.&amp; Reichert, R. (2026). Entzugskontexte erkennen:
+  Koloniale Kontexte. Zenodo. https://doi.org/10.5281/zenodo.19236132 
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: "https://doi.org/10.5281/zenodo.19236132\_"
+creator:
+  -
+    givenName: Gabriele
+    familyName: Zöllner
+    id: 'https://orcid.org/0009-0002-1787-9149'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    givenName: Rebekka
+    familyName: Reichert
+    id: 'https://orcid.org/0009-0006-8283-3234'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: ''
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/index'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-08-17'

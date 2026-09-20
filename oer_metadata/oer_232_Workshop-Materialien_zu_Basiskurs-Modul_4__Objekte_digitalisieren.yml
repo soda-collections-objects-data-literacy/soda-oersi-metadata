@@ -1,0 +1,38 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Workshop-Materialien zu Basiskurs-Modul 4: Objekte digitalisieren'
+description: >-
+  Ziel dieses Workshops ist es, einen Überblick über aktuelle
+  Herstellungsverfahren und Anforderungen an digitale Repräsentationen zu
+  vermitteln, um in die Lage versetzt zu werden, die Digitalisierung der eigenen
+  Sammlungsbestände entsprechend der Objektart und im Rahmen des Budgets
+  durchzuführen.Der Foliensatz umfasst die Inhalte des am 23.10.2025
+  durchgeführten Online Workshops zu Modul 4 (150 Min.). 
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://zenodo.org/records/17569746'
+creator:
+  -
+    givenName: Anna
+    familyName: Gnyp
+    id: 'https://orcid.org/0000-0003-3598-1112'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/slide'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-18'

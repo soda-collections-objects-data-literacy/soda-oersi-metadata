@@ -1,0 +1,36 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Workshop-Materialien zu Basiskurs-Modul 1: Einführung in das sammlungsbezogene Forschungsdatenmanagement'
+description: >-
+  Anhand konkreter Anwendungsbeispiele und interaktiver Übungen wird in Modul 1
+  aufgezeigt, wie Sammlungsdaten verantwortungsvoll verwaltet, nachhaltig
+  gesichert und für Forschung und Lehre anschlussfähig aufbereitet werden
+  können. Die Materialien verbinden konzeptionelle Grundlagen mit konkreten
+  Umsetzungsstrategien, Checklisten und Reflexionsimpulsen für die unmittelbare
+  Anwendung in (universitären) Sammlungen.Der Workshop richtet sich an
+  Sammlungsmitarbeitende und folgt den Gestaltungsprinzipien des
+  problemorientierten Lernens und Peer Learning. Der kollegiale Austausch
+  unterstützt eine vielfältige Perspektivenbildung und stärkt eine konstruktive
+  Feedback-Kultur.Der Foliensatz präsentiert die Inhalte sowie Ergebnisse der
+  ersten Pilot-Durchführungen als Online- bzw. Präsenzformat (erstmals online
+  durchgeführt am 25. Juli 2025 sowie erstmals in Präsenz durchgeführt am 20.
+  Juli 2026).
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://zenodo.org/records/21626810'
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/slide'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-17'

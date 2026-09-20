@@ -1,0 +1,45 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Selbstlernkurs zu Basiskurs Modul 6: Ethische Herausforderungen'
+description: >-
+  Bei der der Digitalisierung universitärer Sammlungen können verschiedene
+  ethischer Herausforderungen auftauchen, z.B. Objekte aus Unrechtskontexten,
+  Objekte mit menschlichen Überresten, Objekte aus indigenen Communities oder
+  problematische Benennungen. Dieser Selbstlernkurs führt anhand von Beispielen
+  in die verschiedenen ethischen Problemfelder ein, die uns bei der
+  Sammlungsdigitalisierung begegnen können. Er zeigt Möglichkeiten auf, wie wir
+  mit ethischen Herausforderungen umgehen können und verlinkt zu jedem
+  Themenbereich weiterführende Ressourcen.  Als Point and Click Adventure nimmt
+  er Nutzer*innen spielerisch mit in eine schulgeschichtliche Sammlung, deren
+  Objekte digitalisiert werden sollen: Hilf der Sammlungsleiterin Clementine
+  dabei, die ethischen Herausforderungen zu meistern! Der Kurs kann jederzeit
+  begonnen werden. Viel Spaß!
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://soda-collections-objects-data-literacy.github.io/SODaBasiskurs_Ethik/'
+creator:
+  -
+    givenName: 'Katharina '
+    familyName: Leyrer
+    id: 'https://orcid.org/0000-0002-3051-0621'
+    type: Person
+    affiliation:
+      name: 'Friedrich-Alexander-Universität Erlangen-Nürnberg'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/educational_game'
+  - 'https://w3id.org/kim/hcrt/drill_and_practice'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-18'

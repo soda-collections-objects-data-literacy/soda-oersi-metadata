@@ -1,0 +1,44 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Selbstlernkurs zu Basiskurs Modul 3: Sammlungen erschießen'
+description: >-
+  Im Selbstlernkurs Modul 3 lernen Sie die Grundlagen der digitalen
+  Sammlungserschließung kennen und setzen sich mit etablierten Standards und
+  Methoden auseinander. Ein besonderer Fokus liegt dabei auf der Frage, wie
+  Sammlungsdaten im Sinne der FAIR-Prinzipien aufbereitet und bereitgestellt
+  werden können. Das Modul umfasst sieben Einheiten, die verschiedene Aspekte der
+  digitalen Sammlungserschließung behandeln. Die Einheiten enthalten kurze
+  inhaltliche Abschnitte, Beispiele und Aufgaben. Dabei können Sie die Inhalte
+  Schritt für Schritt in Ihrem eigenen Tempo bearbeiten.Lernziele:Nach Abschluss
+  des Moduls können Sie …die Bedeutung der digitalen Sammlungserschließung und
+  ihren Zusammenhang mit den FAIR-Prinzipien erläutern,die Funktion verschiedener
+  Daten-, Metadaten- und Dateiformatstandards einordnen,grundlegende Aspekte von
+  Datenmodellen und Ontologien erläutern und das CIDOC-CRM zur semantischen
+  Modellierung eines Sammlungsobjekts anwenden,verschiedene Arten von Metadaten
+  unterscheiden,die Minimaldatensatz-Empfehlung und LIDO für die
+  Sammlungserschließung einordnen,verschiedene Aspekte von Datenqualität
+  erkennen und Möglichkeiten zu ihrer Verbesserung benennen,kontrollierte
+  Vokabulare, Normdaten und persistente Identifikatoren gezielt einsetzen und
+  geeignete Ressourcen recherchieren,Anforderungen an Erschließungssysteme
+  analysieren und Vor- und Nachteile verschiedener Softwareansätze abwägen. 
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBasiskurs-Modul3/main/SODaBasiskurs-Modul3-Inhalt#01'
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/Basiskurs-Modul3-OER_0.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/course'
+  - 'https://w3id.org/kim/hcrt/assessment'
+  - 'https://w3id.org/kim/hcrt/drill_and_practice'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-17'

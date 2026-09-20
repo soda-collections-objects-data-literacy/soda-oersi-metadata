@@ -1,0 +1,62 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Selbstlernkurs: Einführung (Digitale) Provenienzforschung'
+description: >-
+  Planen Sie, die Herkunft der Objekte in Ihrer Sammlung zu erforschen? Brauchen
+  Sie dafür einen Einstieg in das das Feld der (digitalen) Provenienzforschung
+  – von methodischen Grundlagen der Provenienzforschung über die Nutzung
+  digitaler Ressourcen und Tools bis hin zur Erfassung von
+  Provenienzangaben?Dieser Online-Kurs richtet sich an Einsteiger*innen und
+  Personen ohne Vorkenntnisse, die sich erstmals mit (Digitaler)
+  Provenienzforschung beschäftigen. Er vermittelt einen grundlegenden Einstieg in
+  Begriffe, Entzugskontexte und methodische Ansätze sowie in digitale Recherche-
+  und Dokumentationspraktiken.Themenblock 1 – Grundlagen der
+  Provenienzforschung: Teilnehmer*innen erhalten eine Einführung in zentrale
+  Definitionen und historische Zusammenhänge. Behandelt werden u.a. Definitionen
+  (Digitaler) Provenienzforschung, von Besitz und Eigentum, Kulturgut, sowie ein
+  Einstieg in die historisch-rechtlich-ethischen Rahmenbedingungen z.B. die
+  Washingtoner Prinzipien.Themenblock 2 – Recherche von Provenienzinformationen:
+  Im Fokus stehen Strategien zur Identifikation verschiedener Entzugskontexte (NS,
+  SBZ/DDR, Koloniale Kontexte). Darüber hinaus erfolgt ein Einblick in einige
+  Recherchedatenbanken und Tools.Themenblock 3 – Strukturierung von
+  Provenienzangaben: Es erfolgt eine Einführung in die Relevanz einer
+  standardisierten Erfassung von Provenienzdaten. Zudem werden verschiedene
+  Beispiele für Metadatenschemata gezeigt und gemeinsam diskutiert.
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/Einfuehrung-in-die-Digitale-Provenienzforschung/main/OER-Einfuehrung-DPF_v1.0.md#1'
+creator:
+  -
+    givenName: Gabriele
+    familyName: Zöllner
+    id: 'https://orcid.org/0009-0002-1787-9149'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    givenName: Rebekka
+    familyName: Reichert
+    id: 'https://orcid.org/0009-0006-8283-3234'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/index'
+  - 'https://w3id.org/kim/hcrt/drill_and_practice'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-15'

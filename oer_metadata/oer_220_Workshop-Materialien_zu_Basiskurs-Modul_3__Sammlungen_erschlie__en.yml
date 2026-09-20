@@ -1,0 +1,34 @@
+'@context': 'https://schema.org/'
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Workshop-Materialien zu Basiskurs-Modul 3: Sammlungen erschließen'
+description: >-
+  Hier stehen alle Materialien für die Durchführung eines Online- und eines
+  Präsenzworkshops zum Basiskurs-Modul 3 zur Verfügung. Dazu gehören
+  Präsentationsfolien sowie auf die Folien abgestimmte Drehbücher, die sowohl
+  eine individuelle Einarbeitung als auch die strukturierte Durchführung eines
+  Workshops ermöglichen, sowie Aufgaben inklusive Lösungen.Der Foliensatz und
+  die Materialien umfassen die leicht überarbeiteten Inhalte des am 08.12.2025
+  durchgeführten Online Workshops und des am 20.07.2026 durchgeführten
+  Präsenzworkshops während der SODa Summer School zu Modul 3 (180
+  Min.).Inhaltliche Schwerpunkte dieses Moduls sind:Grundlagen der digitalen
+  SammlungserschließungDatenmodellierungMetadatenMetadatenstandardsDatenqualitätKontrollierte
+  VokabulareDatenaustausch und Linked Open Data
+license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
+id: 'https://doi.org/10.5281/zenodo.22705057'
+creator:
+  -
+    name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
+    type: Organization
+inLanguage:
+  - de
+about:
+  - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
+image: 'http://sammlungen.io/sites/default/files/2026-09/SODa_OER-Default-Image.png'
+learningResourceType:
+  - 'https://w3id.org/kim/hcrt/worksheet'
+  - 'https://w3id.org/kim/hcrt/slide'
+educationalLevel:
+  - 'https://w3id.org/kim/educationalLevel/level_A'
+  - 'https://w3id.org/kim/educationalLevel/level_C'
+datePublished: '2026-09-17'
