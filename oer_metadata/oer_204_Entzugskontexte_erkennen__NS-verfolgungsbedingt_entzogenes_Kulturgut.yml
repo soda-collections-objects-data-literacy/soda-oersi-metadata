@@ -41,7 +41,6 @@ inLanguage:
   - de
 about:
   - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
-image: ''
 learningResourceType:
   - 'https://w3id.org/kim/hcrt/worksheet'
   - 'https://w3id.org/kim/hcrt/index'
