@@ -26,6 +26,15 @@ license: 'https://creativecommons.org/licenses/by/4.0/deed.de'
 id: 'https://liascript.github.io/course/?https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaBasiskurs-Modul3/main/SODaBasiskurs-Modul3-Inhalt#01'
 creator:
   -
+    givenName: Anna
+    familyName: Gnyp
+    id: 'https://orcid.org/0000-0003-3598-1112'
+    type: Person
+    affiliation:
+      name: 'Humboldt-Universität zu Berlin'
+      id: 'https://ror.org/00f7hpc57'
+      type: Organization
+  -
     name: 'SODa - Sammlungen, Objekte, Datenkompetenzen'
     type: Organization
 inLanguage:
@@ -41,4 +50,4 @@ learningResourceType:
 educationalLevel:
   - 'https://w3id.org/kim/educationalLevel/level_A'
   - 'https://w3id.org/kim/educationalLevel/level_C'
-datePublished: '2026-09-17'
+datePublished: '2026-09-18'
