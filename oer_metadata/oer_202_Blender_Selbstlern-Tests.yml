@@ -39,7 +39,6 @@ inLanguage:
   - de
 about:
   - 'https://w3id.org/kim/hochschulfaechersystematik/n0'
-image: ''
 educationalLevel:
   - 'https://w3id.org/kim/educationalLevel/level_A'
   - 'https://w3id.org/kim/educationalLevel/level_C'
